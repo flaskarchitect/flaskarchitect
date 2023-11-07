@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Video creation, editing 
 - 📫 How to reach me YouTube: https://www.youtube.com/channel/UC3fZCIyKM6kJqAHeXnlKbQQ   @FlaskArchitect
 
-<!---
-flaskarchitect/flaskarchitect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+'''
+FlaskArchtect is a Python Flask application used to create and edit YouTube Videos. FlaskArchtect's
+primary function, at this time, is too create YouTube shorts, self-edit and create its own documentation.
+AI imagery, YouTube Short, short video, flaskarchtect , #flaskarchitect
+'''
